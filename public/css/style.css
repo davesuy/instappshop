@@ -1,0 +1,16 @@
+.insta-feed-attcher {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+  max-width: 1400px;
+  margin: auto;
+}
+.insta-feed-attcher .insta-section {
+  display: flex;
+  flex-direction: row;
+  overflow: hidden;
+}
+.insta-feed-attcher .insta-section > div {
+  overflow: hidden;
+  max-height: 300px;
+}
